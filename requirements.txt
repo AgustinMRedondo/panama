@@ -6,3 +6,4 @@ numpy
 pandas
 setuptools
 altair==4.1.0
+scikit-learn
