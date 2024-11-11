@@ -1,8 +1,5 @@
 streamlit==0.88.0
 matplotlib
-pickle
 Pillow  
-ml
 numpy
 pandas
-abstract
